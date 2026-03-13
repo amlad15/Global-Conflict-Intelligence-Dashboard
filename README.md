@@ -2,20 +2,11 @@
 
 A production-ready, real-time **OSINT (Open-Source Intelligence)** monitoring platform that visualises global military activity, maritime vessel movement, conflict events, and news on a full-screen interactive map — with a built-in AI analysis assistant powered by a local LLM.
 
-> **Portfolio Project** — Designed to demonstrate full-stack engineering capabilities including real-time data pipelines, spatial databases, WebSocket communication, and AI integration.
+ Designed to demonstrate full-stack engineering capabilities including real-time data pipelines, spatial databases, WebSocket communication, and AI integration.
 
 ---
 
-## Screenshots
 
-> *(Add screenshots of your running dashboard here)*
->
-> Suggested screenshots:
-> - Full dashboard with map and event feed
-> - Aircraft layer active over Europe
-> - Conflict event popup
-> - AI chat panel analysis
-> - Filter panel
 
 ---
 
